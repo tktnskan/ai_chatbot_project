@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.idea/
+venv/
+__pycache__
+media/
+db.sqlite3
+*.exe
+*.csv
+
